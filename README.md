@@ -4,5 +4,7 @@ Available as [lloydmeta/docker-compose:latest](https://hub.docker.com/r/lloydmet
 
 Super simple version of [docker-compose](https://hub.docker.com/r/docker/compose/) that doesn't have an entrypoint. Useful for Gitlab CI which assumes it can issue commands without overriding entrypoint.
 
+Oh, it also has the docker command.
+
 Should always track the latest [tags on docker-compose](https://hub.docker.com/r/docker/compose/tags/), send a PR if you want an update.
 
