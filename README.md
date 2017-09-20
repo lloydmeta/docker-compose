@@ -6,5 +6,3 @@ Super simple version of [docker-compose](https://hub.docker.com/r/docker/compose
 
 Oh, it also has the docker command.
 
-Should always track the latest [tags on docker-compose](https://hub.docker.com/r/docker/compose/tags/), send a PR if you want an update.
-
